@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 python -m mkdocs serve
 ```
 
-打开终端提示的地址（通常为 http://127.0.0.1:8000/my-docs/）预览。提交前可先执行严格构建检查：
+打开终端提示的地址（通常为 http://127.0.0.1:8000/my-docs/ ） 预览。提交前可先执行严格构建检查：
 
 ```bash
 python -m mkdocs build --strict
